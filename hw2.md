@@ -65,7 +65,7 @@ flowchart LR
 
 ```mermaid
 gantt
-  title 專案甘特圖（總工期約 155 天）
+  title 專案甘特圖（2025-01-06 → 2025-06-11）
   dateFormat  YYYY-MM-DD
   axisFormat  %m/%d
 
